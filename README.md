@@ -1,2 +1,2 @@
 # SCE
-The code and data of SCE framewrok.
+The code and data of the SCE framewrok.
