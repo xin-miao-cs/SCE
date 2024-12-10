@@ -1,0 +1,174 @@
+{
+  "message": [
+    "acknowledgment",
+    "messenger",
+    "telegraph",
+    "whisper",
+    "announcement",
+    "transmit",
+    "call",
+    "communication",
+    "cancel",
+    "enigma"
+  ],
+  "topic": [
+    "about",
+    "academic",
+    "corpus",
+    "discourse",
+    "domain",
+    "have",
+    "relevant",
+    "subject",
+    "symposium",
+    "thematic"
+  ],
+  "product": [
+    "additive",
+    "purchase",
+    "addition",
+    "synthesize",
+    "company",
+    "preserve",
+    "grocery",
+    "specification",
+    "convert",
+    "craft"
+  ],
+  "producer": [
+    "farm",
+    "product",
+    "farmer"
+  ],
+  "instrument": [
+    "accordion",
+    "barometer",
+    "club",
+    "device",
+    "agency",
+    "probe",
+    "spectrometer",
+    "testament",
+    "apparatus",
+    "orchestra"
+  ],
+  "agency": [
+    "act",
+    "company",
+    "firm",
+    "organization",
+    "representative",
+    "agent",
+    "government",
+    "principal",
+    "authority",
+    "bureau"
+  ],
+  "entity": [],
+  "destination": [
+    "address",
+    "fate",
+    "arrive",
+    "destiny",
+    "diversion",
+    "camp",
+    "deliver",
+    "reach",
+    "place",
+    "institute"
+  ],
+  "cause": [
+    "because",
+    "affect",
+    "effect",
+    "principle",
+    "consequence",
+    "engender",
+    "fate",
+    "induce",
+    "mechanism",
+    "occasion"
+  ],
+  "effect": [
+    "act",
+    "action",
+    "ascertain",
+    "cause",
+    "control",
+    "dramatic",
+    "causation",
+    "change",
+    "impact",
+    "influence"
+  ],
+  "component": [
+    "aspect",
+    "deconstruct"
+  ],
+  "whole": [
+    "healthy",
+    "wholly",
+    "world",
+    "wholeness"
+  ],
+  "member": [
+    "basque",
+    "cadre",
+    "affiliation",
+    "belong",
+    "chief",
+    "citizen",
+    "club",
+    "colleague",
+    "enumerate",
+    "attendee"
+  ],
+  "collection": [
+    "anthology",
+    "junk",
+    "tax",
+    "arrangement",
+    "cellar",
+    "hobby",
+    "collect",
+    "collector",
+    "collective",
+    "compendium"
+  ],
+  "origin": [
+    "authentic",
+    "authorship",
+    "axis",
+    "orient",
+    "ancestry",
+    "originate",
+    "route",
+    "native",
+    "mysterious",
+    "mythology"
+  ],
+  "content": [
+    "author",
+    "comfortable",
+    "calm",
+    "happy",
+    "information",
+    "inside",
+    "peaceful",
+    "glad",
+    "gratify",
+    "news"
+  ],
+  "container": [
+    "bag",
+    "interior",
+    "pipe",
+    "vessel",
+    "bathtub",
+    "cart",
+    "bottle",
+    "bucket",
+    "transport",
+    "glass"
+  ]
+}
