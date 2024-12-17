@@ -1,0 +1,1 @@
+conceptnet_english.txt filter=lfs diff=lfs merge=lfs -text
