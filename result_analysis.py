@@ -1,4 +1,3 @@
-# encoding=utf-8
 import math
 
 from file_io import read_json_file
@@ -55,5 +54,5 @@ def analyze_results(eval_path, attack_path):
 
 
 if __name__ == '__main__':
-    analyze_results("evaluation_results/qwen2-7b-instruct-gptq-int8/semeval_naive_evaluation.json",
-                    "evaluation_results/qwen2-7b-instruct-gptq-int8/semeval_qwen2-7b-instruct-gptq-int8_s1.3_t0.3_top10_ic_delete.json")
+    analyze_results("evaluation_results/qwen2-7b-instruct-gptq-int8/semeval_naive_evaluation_ic.json",
+                    "evaluation_results/qwen2-7b-instruct-gptq-int8/semeval_qwen2-7b-instruct-gptq-int8_s1.3_t0.3_top10_ic.json")
