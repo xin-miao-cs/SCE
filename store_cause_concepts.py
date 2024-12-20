@@ -117,7 +117,7 @@ def select_top_n(file_path, top_n):
 
 
 if __name__ == '__main__':
-    store_for_semeval("../llms/qwen2.5-72b-instruct-gptq-int4", 1.3, 0.3, "cuda:0")
-    store_for_few_nerd("../llms/qwen2.5-72b-instruct-gptq-int4", 1.3, 0.3, "cuda:0")
-    store_for_ace05("../llms/qwen1.5-1.8b-chat-gptq-int8", 1.3, 0.3, "cuda:0")
-    select_top_n("cause_concepts/ace05_qwen1.5-1.8b-chat-gptq-int8_s1.3_t0.3.json", 10)
+    store_for_semeval("../llms/qwen2-7b-instruct-gptq-int8", 1.3, 0.3, "cuda:0")
+    # store_for_few_nerd("../llms/qwen2-7b-instruct-gptq-int8", 1.3, 0.3, "cuda:0")
+    # store_for_ace05("../llms/qwen2-7b-instruct-gptq-int8", 1.3, 0.3, "cuda:0")
+    select_top_n("cause_concepts/semeval_qwen2-7b-instruct-gptq-int8_s1.3_t0.3.json", 10)
