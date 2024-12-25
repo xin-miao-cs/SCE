@@ -2,4 +2,6 @@
 The code and data of the SCE framework.
 
 # Enviroment
-We recommend using Anaconda to set up a virtual environment with Python 3.10 and CUDA 12.1, and installing the Transformers and vLLM packages.
+We recommend using Anaconda to set up a virtual environment with python=3.10 and pytorch-cuda=12.1, and installing the transformers and vllm packages.
+
+
