@@ -7,5 +7,6 @@ We recommend using Anaconda to set up a virtual environment with `python=3.10` a
 # Quik Start
 Using the evaluation of Qwen2-7B on SemEval as an example.
 
-1) Download the Qwen2-7B-Instruct model from https://huggingface.co/Qwen/Qwen2-7B-Instruct and place it in the `../llms` folder.
-2) Run to identify the cause concepts for label concepts,
+1) Download the Qwen2-7B-Instruct model from Hugging Face (https://huggingface.co/Qwen/Qwen2-7B-Instruct) and place it in the `../llms` folder.
+2) Run `store_cause_concepts.py` to identify the cause concepts for label concepts, i.e., discovering confounders.
+3) 
