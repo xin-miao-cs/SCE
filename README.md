@@ -1,5 +1,8 @@
 # SCE
-The code and data of the SCE framework.
+The code and data of the SCE (Spurious Correlation Evaluator) framework, the first work to evaluate the causal stability of LLMs. Using the evaluation of Qwen2-7B on SemEval as an example, this repository includes detailed reproduction instructions and generated intermediate files within the corresponding folders.
+
+# Datasets
+The `datasets` folder contains three datasets used in our experiments: SemEval for relation extraction, Few-NERD for entity typing, and ACE 2005 for event detection.
 
 # Enviroment
 We recommend using Anaconda to set up a virtual environment with `python=3.10` and `pytorch-cuda=12.1`, and installing the `transformers` and `vllm` packages. If prompted to install additional packages during setup, use `pip` to install the default versions.
